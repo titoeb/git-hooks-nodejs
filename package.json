@@ -1,0 +1,20 @@
+{
+  "name": "git-hooks-nodejs",
+  "version": "1.0.0",
+  "description": "In this repository I explore git-hooks and how they can be shared in a NodeJS project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titoeb/git-hooks-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/titoeb/git-hooks-nodejs/issues"
+  },
+  "homepage": "https://github.com/titoeb/git-hooks-nodejs#readme"
+}
