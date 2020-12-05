@@ -22,6 +22,14 @@
     "pre-commit": "^1.2.2"
   },
   "pre-commit": [
-	"test"
-  ]
+    "test"
+  ],
+  "dependencies": {
+    "husky": "^4.3.4"
+  },
+  "husky": {
+	"hooks": {
+	    "pre-commit": "npm test"
+	}
+  }
 }
